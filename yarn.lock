@@ -5735,7 +5735,6 @@ __metadata:
     "@backstage/plugin-events-node": "workspace:^"
     "@backstage/types": "workspace:^"
     "@google-cloud/pubsub": "npm:^4.10.0"
-    "@opentelemetry/api": "npm:^1.9.0"
     wait-for-expect: "npm:^4.0.0"
   languageName: unknown
   linkType: soft
